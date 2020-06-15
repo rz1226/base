@@ -6,6 +6,10 @@ func HelloV1()string {
 }
 
 
+func Hellov2()string {
+	return "hello v2"
+}
+
 
 
 
