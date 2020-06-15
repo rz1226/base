@@ -1,15 +1,10 @@
 package base
 
-func HelloV1()string {
 
-	return "hello v1"
+ 
+
+func Hellov3()string {
+	return "hello v3"
 }
-
-
-func Hellov2()string {
-	return "hello v2"
-}
-
-
 
 
